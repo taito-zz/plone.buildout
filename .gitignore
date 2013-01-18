@@ -1,9 +1,12 @@
+.coverage
 .installed.cfg
 .mr.developer.cfg
 bin
 bootstrap.py
 develop-eggs
 eggs
+htmlcov/
 parts
+rebuild_i18n.sh
 src
 var
