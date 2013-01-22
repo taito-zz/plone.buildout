@@ -2,7 +2,6 @@
 .installed.cfg
 .mr.developer.cfg
 bin
-bootstrap.py
 develop-eggs
 eggs
 htmlcov/
