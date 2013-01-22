@@ -6,6 +6,5 @@ develop-eggs
 eggs
 htmlcov/
 parts
-rebuild_i18n.sh
 src
 var
