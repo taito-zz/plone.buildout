@@ -3,9 +3,11 @@
 .mr.developer.cfg
 bin
 buildout.cfg
+buildout.d/accounts
 develop-eggs
 eggs
-htmlcov/
+etc
+htmlcov
 parts
 src
 var
