@@ -1,3 +1,7 @@
 *.buildout
+bin
 downloads
 eggs
+include
+lib
+local
