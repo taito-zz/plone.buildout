@@ -1,27 +1,13 @@
-<<<<<<< HEAD
 *.buildout
 *.swp
 .installed.cfg
 .mr.developer.cfg
 bin
+develop-eggs
 downloads
 eggs
 include
 lib
 local
 parts
-=======
-.coverage
-.installed.cfg
-.mr.developer.cfg
-bin
-buildout.cfg
-buildout.d/accounts
-develop-eggs
-eggs
-etc
-htmlcov
-parts
 src
-var
->>>>>>> db0b1d88e39b9f9cfba4bdb6a59a12d4f2b69a59
